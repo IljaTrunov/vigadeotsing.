@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vigadeotsing", "vigadeotsing.pyproj", "{08737D2A-06D1-4A41-8468-7442EE9A10EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08737D2A-06D1-4A41-8468-7442EE9A10EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08737D2A-06D1-4A41-8468-7442EE9A10EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A581690-9276-489B-A9ED-ECC0B98C8AAB}
+	EndGlobalSection
+EndGlobal
